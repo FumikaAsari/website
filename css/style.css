@@ -18,7 +18,12 @@ body{
 	max-width: 960px;
 }
 
-
+h1{
+	font-size:30px;
+	color:#696969;
+	margin-top:0px;
+}
+	
 h2{
 	color: #3f5170;
 	font-size:22px;
@@ -59,10 +64,17 @@ img{
 
 /* すべてのページに適用 - ヘッダー - */
 .logo{
-	margin: 50px 0 0 0 ;
+	margin: 30px 0 0 0 ;
 	line-height: 0 ;
 	text-align: center;
 }
+
+.official{
+	font-size:25px;
+	text-align:center;	
+	color:#696969
+}
+
 
 .line{
 	background-image:url(../images/dot-line.png);
@@ -70,6 +82,7 @@ img{
 	margin-left: 20px;
 	margin-right: 20px;
 	margin-bottom:20px;
+	margin-top:0px;
 }
 
 .nav{
@@ -110,8 +123,9 @@ img{
 	background-repeat: repeat-x;
 	margin-left: 30px;
 	margin-right: 30px;
-	margin-top: 80px;
+	margin-top: 30px;
 	padding: 80px 15px 20px 15px ;
+	text-align: center;
 }
 
 /* 個別のスタイル */
