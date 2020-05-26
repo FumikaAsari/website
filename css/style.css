@@ -179,6 +179,10 @@ img{
 }
 
 /* 表示された時用のCSS */
+.nav{
+	line-height: 30px;
+}
+
 .nav_open #ham #navi { right: 0; }
 
 .nav_open .nav_bg {
