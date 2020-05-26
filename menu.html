@@ -12,15 +12,56 @@
 				<h1 class="logo"><a href="index.html"><img src="images/main-logo.png"alt="浅利史花"></a></h1>
 				<div class="official"><b>Official Web Site</b></div>
 				<div class="line"><img src="images/dot-line.png"alt""></div>
-				<nav class="nav">
-					<ul>
-						<li><a href="index.html"><b>HOME</b></a></li>
-						<li><a href="profile.html"><b>PROFILE</b></a></li>
-						<li><a href="https://ameblo.jp/ggg-jazz/"><b>SCHEDULE</b></a></li>
-						<li><a href="menu.html"><b>DISCOGRAPHY</b></a></li>
-						<li><a href="contact.html"><b>CONTACT</b></a></li>
-					</ul>
-				</nav>
+				
+				<div id="ham">
+					<nav class="nav">
+						<ul id="navi">
+							
+							<li><a href="index.html"><b>HOME</b></a></li>
+							<li><a href="profile.html"><b>PROFILE</b></a></li>
+							<li><a href="https://ameblo.jp/ggg-jazz/"><b>SCHEDULE</b></a></li>
+							<li><a href="menu.html"><b>DISCOGRAPHY</b></a></li>
+							<li><a href="contact.html"><b>CONTACT</b></a></li>
+						</ul>
+					</nav>
+					
+					<!-- ボタン部分ここを後で追加するだけ-->
+					<div class="nav_btn" id="nav_btn">
+						<span class="hamburger_line hamburger_line1"></span>
+						<span class="hamburger_line hamburger_line2"></span>
+						<span class="hamburger_line hamburger_line3"></span>
+					</div>
+					<div class="nav_bg" id="nav_bg"></div>
+					<!-- /ボタン部分ここを後で追加するだけ-->
+					
+				</div>	
+				<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+				<script>(function ($) {
+					
+					
+					/* ------------------------------- */
+					
+					})(jQuery);
+					
+					
+					/* SP menu */
+					function toggleNav() {
+					var body = document.body;
+					var hamburger = document.getElementById('nav_btn');
+					var blackBg = document.getElementById('nav_bg');
+					
+					hamburger.addEventListener('click', function() {
+					body.classList.toggle('nav_open'); //メニュークリックでnav-openというクラスがbodyに付与
+					});
+					blackBg.addEventListener('click', function() {
+					body.classList.remove('nav_open'); //もう一度クリックで解除
+					});
+					}
+					toggleNav();
+				</script>
+				
+				
+				
 			</header>
 			<!-- ヘッダーここまで -->
 <!-- メイン -->
