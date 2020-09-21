@@ -208,7 +208,7 @@ img{
 }
 /*すべてのページに適用 - フッター - */
 .footer{
-	background-image:url(../images/dot-line.png);
+	background-image:url(../images/線.png);
 	background-repeat: repeat-x;
 	margin-left: 30px;
 	margin-right: 30px;
