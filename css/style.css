@@ -82,8 +82,8 @@ img{
 .line{
 	background-image:url(../images/線.png);
 	background-repeat: repeat-x;
-	margin-left: 20px;
-	margin-right: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
 	margin-bottom:0px;
 	margin-top:0px;
 }
@@ -210,8 +210,8 @@ img{
 .footer{
 	background-image:url(../images/線.png);
 	background-repeat: repeat-x;
-	margin-left: 30px;
-	margin-right: 30px;
+	margin-left: 20px;
+	margin-right: 20px;
 	margin-top: 20px;
 	padding: 30px 15px 20px 15px ;
 	text-align: center;
