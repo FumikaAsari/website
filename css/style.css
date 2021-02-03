@@ -84,15 +84,13 @@ img{
 
 .fix-01{
 	background: #A5E4AE;
-	box-shadow:0 2px 8px;
 	left: 0;
 	line-height: 1;
 	position: fixed;
 	top: 0;
 	width: 100%;
 	z-index: 100;
-	text-align: center;
-	padding: 1rem;
+	padding: 0;
 }
 
 .line{
