@@ -98,8 +98,6 @@ img{
 	background-repeat: repeat-x;
 	margin-left: 10px;
 	margin-right: 10px;
-	margin-bottom:0px;
-	margin-top:0px;
 }
 .nav{
 	text-align: center;
@@ -234,7 +232,7 @@ img{
 /* 個別のスタイル */
 /* indx.html */
 .keyvisual{
-	padding: 10px 0 0 0 ;
+	padding: 0 0 0 0 ;
 	text-align: center;
 }
 .nwes-item{
