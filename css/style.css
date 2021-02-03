@@ -307,11 +307,12 @@ input[type="submit"]{
 /*news*/
 
 .movie {
+	width: 60%;
+	margin: 0 auto;
+}
+.movie__inner {
 	position: relative;
 	padding-bottom: calc(315 / 560 * 100%);
-	width: 60%;  //追加
-	margin: 0 auto;  //追加
-	// padding-topでも可
 }
 .movie__iframe {
 	position: absolute;
