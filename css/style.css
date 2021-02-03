@@ -90,7 +90,7 @@ img{
 	top: 0;
 	width: 100%;
 	z-index: 100;
-	padding: 0;
+	padding:1rem;
 }
 
 .line{
@@ -166,9 +166,9 @@ img{
 .hamburger_line {
 	transition: all .6s;
 	width: 34px;
-	height: 2px;
+	height: 3px;
 	left: 5px;
-	background-color: #1F2F54;
+	background-color: #fff;
 	position: absolute;
 }
 
