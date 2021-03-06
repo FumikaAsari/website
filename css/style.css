@@ -84,7 +84,7 @@ img{
 
 .fix-01{
 	background:#ede096;
-	right: inherit;
+	left: inherit;
 	line-height: 1;
 	position: fixed;
 	top: 0;
