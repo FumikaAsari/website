@@ -25,9 +25,9 @@ h1{
 }
 	
 h2{
-	color: #696969;
+	color: #fff;
 	font-size:22px;
-	border-bottom: 3px dotted #696969;
+	border-bottom: 3px dotted #fff;
 	margin-top: 20px;
 	margin-right: 0px;
 	margin-bottom: 20px;
@@ -79,7 +79,7 @@ img{
 	text-align:center;	
 	padding:0 0 0 0;
 	margin:0 0 0 0;
-	color:#90473e
+	color:#604224;
 }
 
 .fix-01{
@@ -111,12 +111,12 @@ img{
 
 
 .nav a:link{
-	color: #fff;
+	color: #604224;
 	text-decoration: none;
 }
 
 .nav a:visited{
-	color: #fff;
+	color: #604224;
 	text-decoration: none;
 }
 
@@ -147,9 +147,9 @@ img{
 	z-index: 200;
 	top: 0;
 	right: -320px;
-	background-color: #90473e;
+	background-color: #604224;
 	position: fixed;
-	color:#90473e;
+	color:#604224;
 }
 
 #ham .nav_btn {
@@ -160,7 +160,7 @@ img{
 	right: 7px;
 	cursor: pointer;
 	position: absolute;
-	color:#90473e;
+	color:#604224;
 }
 
 .hamburger_line {
@@ -185,7 +185,7 @@ img{
 	top: 0;
 	left: 0;
 	visibility: hidden;
-	background-color: #90473e;
+	background-color: #fff;
 	cursor: pointer;
 	position: fixed;
 }
