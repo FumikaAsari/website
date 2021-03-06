@@ -147,9 +147,9 @@ img{
 	z-index: 200;
 	top: 0;
 	right: -320px;
-	background-color: #604224;
+	background-color: #fff;
 	position: fixed;
-	color:#fff;
+	color:#604224;
 }
 
 #ham .nav_btn {
