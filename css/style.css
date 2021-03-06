@@ -11,7 +11,7 @@ html *{
 
 body{
 	margin: 0 0 0 0;
-	background-color: #A5E4AE;
+	background-color: #ffffff;
 }
 .wrapper{
 	margin:0 auto 0 auto;
@@ -79,8 +79,7 @@ img{
 	text-align:center;	
 	padding:0 0 0 0;
 	margin:0 0 0 0;
-	color: khaki;
-	text-shadow:1px 2px 3px #808080;
+	color: rgb(43, 250, 112);
 }
 
 .fix-01{
@@ -169,7 +168,7 @@ img{
 	width: 34px;
 	height: 3px;
 	left: 5px;
-	background-color: #fff;
+	background-color: #006400;
 	position: absolute;
 }
 
