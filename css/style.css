@@ -335,7 +335,7 @@ input[type="submit"]{
 	overflow: hidden;
 	}
 	.logo{
-	text-align: center;
+	text-align: left;
 	}
 	.logo img{
 	width: 200px;
