@@ -149,7 +149,7 @@ img{
 	right: -320px;
 	background-color: #fff;
 	position: fixed;
-	color:#006400;
+	color:#90473e;
 }
 
 #ham .nav_btn {
@@ -160,7 +160,7 @@ img{
 	right: 7px;
 	cursor: pointer;
 	position: absolute;
-	color:#006400;
+	color:#90473e;
 }
 
 .hamburger_line {
@@ -168,7 +168,7 @@ img{
 	width: 34px;
 	height: 3px;
 	left: 5px;
-	background-color: #006400;
+	background-color: #fff;
 	position: absolute;
 }
 
@@ -185,7 +185,7 @@ img{
 	top: 0;
 	left: 0;
 	visibility: hidden;
-	background-color: #006400;
+	background-color: #90473e;
 	cursor: pointer;
 	position: fixed;
 }
