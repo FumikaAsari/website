@@ -23,6 +23,7 @@ h1{
 	font-size:30px;
 	color:#696969;
 	margin-top:0px;
+	text-align: center;
 }
 	
 h2{
@@ -115,7 +116,7 @@ img{
 	display: inline;
 	list-style-type: nane;
 	padding: 0 30px 0 0 ;
-	float: left;
+	float: center;
 }
 
 
@@ -253,7 +254,7 @@ margin-right: 60px;
 /* indx.html */
 .keyvisual{
 	padding: 0 0 0 0 ;
-	text-align: left;
+	text-align: center;
 }
 .nwes-item{
 	margin: 0 ;
@@ -349,7 +350,7 @@ input[type="submit"]{
 	overflow: hidden;
 	}
 	.logo{
-	text-align: left;
+	text-align: center;
 	}
 	.logo img{
 	width: 200px;
