@@ -121,12 +121,12 @@ img{
 
 
 .nav a:link{
-	color: #ff7f7f;
+	color: #ffffff;
 	text-decoration: none;
 }
 
 .nav a:visited{
-	color: #ff7f7f;
+	color: #ffffff;
 	text-decoration: none;
 }
 
@@ -168,7 +168,7 @@ margin-right: 60px;
 	z-index: 200;
 	top: 0;
 	right: -320px;
-	background-color: #fff;
+	background-color: ##ff7f7f;
 	position: fixed;
 	color:#604224;
 }
