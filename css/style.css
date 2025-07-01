@@ -3,7 +3,7 @@
 /*すべてのWEBページに適用される*/
 html{
 	font-family: sans-serif;
-	color: #604224;
+	color: #ffffff;
 }
 
 html *{
@@ -49,19 +49,19 @@ p{
 	line-height: 1.6;
 }
 a:link{
-	color: #d25833;
+	color: #ffffa8;
 }
 
 a:visited{
-	color: #d25833;
+	color: #ffffa8;
 }
 
 a:hover{
-	color: #e3937a;
+	color: #ffffa8;
 }
 
 a:active{
-	color: #ff6a3b;
+	color: #ffffa8;
 }
 img{
 	max-width: 100%;
