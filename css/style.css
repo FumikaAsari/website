@@ -12,7 +12,7 @@ html *{
 
 body{
 	margin: 0 0 0 0;
-	background-color: #f5deb3;
+	background-color: #dcdcdc;
 }
 .wrapper{
 	margin:0 auto 0 auto;
@@ -85,7 +85,7 @@ img{
 }
 
 .fix-01{
-	background:#f5deb3;
+	background:#dcdcdc;
 	left: 0;
 	line-height: 2;
 	position: fixed;
